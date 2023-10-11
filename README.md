@@ -44,11 +44,6 @@ This project demonstrates how to create a reverse shell using Python and socket 
 4. Once the client connects to the server, you can interact with the remote system through the server's command prompt.
 
 
-## Screenshots
-
-![Screenshot](screenshots/reverse-shell-screenshot.png)
-
-
 ## Acknowledgments
 
 - Inspired by ethical hacking and penetration testing tools.
@@ -57,8 +52,3 @@ This project demonstrates how to create a reverse shell using Python and socket 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [your.email@example.com](mailto:shivamsinghsemail@gmail.com).
-
----
-
-Enjoy your newfound power and remember to use this tool responsibly and ethically!
-```
