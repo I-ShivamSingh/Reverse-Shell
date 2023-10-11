@@ -24,7 +24,7 @@ This project demonstrates how to create a reverse shell using Python and socket 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/reverse-shell-python.git
+   git clone https://github.com/I-ShivamSingh/Reverse-Shell.git
    ```
 
 2. Run the server script to set up a listening server:
